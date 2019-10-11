@@ -1,0 +1,12 @@
+.Pokedex-cards {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.isWinner {
+    color: greenyellow;
+}
+
+.isLoser {
+    color: red;
+}
